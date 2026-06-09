@@ -9,6 +9,7 @@ A collection of Python practice programs and mini-projects created while learnin
 - Loops
 - Functions
 - Lists
+- Strings
 - File Handling
 
 ## Mini Projects
